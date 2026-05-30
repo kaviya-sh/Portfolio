@@ -4,7 +4,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 The website acts as a digital resume, allowing visitors and recruiters to learn about my background, explore my projects, and connect with me easily.
 
 ## 🔗 Live Website
-https://kaviya-sh.github.io/Personal-Portfolio-Website/
+https://kaviya-shanmugam.vercel.app
 
 # 📌 Project Overview
 The Personal Portfolio Website is designed to present my professional profile in a visually appealing and structured format.
